@@ -84,7 +84,7 @@ The Gold layer consists of six tables:
 
 ### Snowflake Schema
 
-![Snowflake Schema](Docs/Snowflake_Schema.png)
+![Snowflake Schema](Docs/Snowflake_schema.png)
 
 The `fact_sales` table serves as the central fact table and connects to customer, date, and pizza dimensions. The pizza dimension is further normalized into pizza type and category dimensions.
 
@@ -132,7 +132,7 @@ The project includes several analytical queries:
 
 The interactive dashboard was developed using Power BI Desktop.
 
-![Pizza Sales Dashboard](Dashboard/Pizza_Maven_Dashboard.png)
+![Pizza Sales Dashboard](Dashboard/Review_Dashboard.png)
 
 ### Dashboard Highlights
 
